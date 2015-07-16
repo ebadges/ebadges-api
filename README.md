@@ -1,3 +1,3 @@
 # ebadges-api
 
-a [Sails](http://sailsjs.org) application
+Award your users as they deserve it

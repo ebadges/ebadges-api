@@ -2,7 +2,7 @@
   "name": "ebadges-api",
   "private": true,
   "version": "0.0.0",
-  "description": "a Sails application",
+  "description": "Award your users as they deserve it",
   "keywords": [],
   "dependencies": {
     "ejs": "~0.8.4",
@@ -32,6 +32,6 @@
     "type": "git",
     "url": "git://github.com/manu/ebadges-api.git"
   },
-  "author": "manu",
+  "author": "Emmanuel Bourmalo",
   "license": ""
 }
