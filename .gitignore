@@ -1,14 +1,17 @@
 node_modules
+tmp
+
+# env or config files
 .idea
 *.orig
 *.log
+.DS_Store
+.sailsrc
+
+# git files
+*.git*
 
 # temp build
 build
 
 *.iml
-
-newrelic_agent.log
-tmp
-.DS_Store
-.sailsrc
