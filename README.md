@@ -1,2 +1,3 @@
 # ebadges-api
-Manage your users and award them as they deserve it
+
+a [Sails](http://sailsjs.org) application
