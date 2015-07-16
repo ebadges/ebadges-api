@@ -1,0 +1,14 @@
+node_modules
+.idea
+*.orig
+*.log
+
+# temp build
+build
+
+*.iml
+
+newrelic_agent.log
+tmp
+.DS_Store
+.sailsrc
